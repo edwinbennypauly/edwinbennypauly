@@ -2,7 +2,7 @@
 
 👀 I'm interested in programming in general.
 
-🌱 Currently, I'm on a learning journey with C programming.
+🌱 Currently, I'm on a learning journey with python programming.
 
 📫 How to reach me:
    - Instagram: [@edwinbennypauly](https://www.instagram.com/edwinbennypauly/)
@@ -10,7 +10,7 @@
 
 ## About Me
 
-Welcome to my coding corner! I'm Edwin, passionate about exploring the world of programming. Currently, I'm diving into the fundamentals of C, building a solid foundation for my coding adventures.
+Welcome to my coding corner! I'm Edwin, passionate about exploring the world of programming. Currently, I'm diving into the fundamentals of C,python  building a solid foundation for my coding adventures.
 
 ## Learning Objectives
 
